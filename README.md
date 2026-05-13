@@ -17,7 +17,7 @@ The project was built to improve accessibility and communication for the deaf an
 
 
 
-## Tech Stack
+#### Tech Stack
 
 # Frontend
 - React.js
@@ -25,11 +25,11 @@ The project was built to improve accessibility and communication for the deaf an
 - CSS3
 - JavaScript
 
-# Backend
+### Backend
 - Python
 - Flask
 
-# NLP & AI
+### NLP & AI
 - spaCy
 - Semantic phrase matching
 - Greedy algorithm optimization
