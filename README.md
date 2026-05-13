@@ -17,9 +17,9 @@ The project was built to improve accessibility and communication for the deaf an
 
 
 
-#### Tech Stack
+## Tech Stack
 
-# Frontend
+### Frontend
 - React.js
 - HTML5
 - CSS3
